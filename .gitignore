@@ -1,0 +1,28 @@
+# Ignore Python compilation
+*.pyc
+
+# Ignore cache
+*.cache/
+
+# Ignore coverage tests
+.coverage
+.pytest_cache/
+
+# Ignore installation
+.eggs/
+dist/
+build/
+
+# Ignore pypi config
+.pypirc
+
+# Ignore all types of images
+.png
+.eps
+.pdf
+*.png
+*.eps
+*.pdf
+/*.png
+/*.eps
+/*.pdf
